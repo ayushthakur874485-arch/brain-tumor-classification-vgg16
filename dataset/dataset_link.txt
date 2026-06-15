@@ -1,1 +1,19 @@
-Add dataset source link here
+Dataset not included in repository due to size limitations.
+
+The project uses a Brain MRI dataset containing:
+
+- Glioma
+- Meningioma
+- Pituitary
+- No Tumor
+
+To reproduce results:
+
+1. Download a Brain MRI Tumor Classification dataset
+2. Create:
+
+dataset/
+├── Training/
+└── Testing/
+
+3. Place images into class folders.
